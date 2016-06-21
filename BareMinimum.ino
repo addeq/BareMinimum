@@ -3,8 +3,7 @@ int led = 3;
 
 void setup() {
   // put your setup code here, to run once:
-    pinMode(button, INPUT);
-    pinMode(led,OUTPUT);
+    
 }
 
 void loop() {
